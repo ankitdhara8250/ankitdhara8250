@@ -1,97 +1,57 @@
 # 👋 Hi, I'm Ankit Dhara
 
-### 🚀 Android Developer | Kotlin Multiplatform (KMP) | Jetpack Compose | MVVM
+### Android Developer | Kotlin Multiplatform (KMP) | Jetpack Compose | MVVM
 
-I'm an Android Developer passionate about building scalable, high-performance mobile applications using **Kotlin**, **Kotlin Multiplatform (KMP)**, and **Jetpack Compose**. I enjoy solving real-world problems through clean architecture, intuitive UI, and maintainable code.
+I'm an Android Developer passionate about building modern, scalable, and high-performance mobile applications using Kotlin and Kotlin Multiplatform. I enjoy designing clean architectures, creating intuitive user experiences, and solving real-world problems through technology.
 
 ---
 
-## 💼 About Me
+## 🚀 What I Do
 
-* 📱 Android Developer specializing in Kotlin & Jetpack Compose
-* 🌍 Building cross-platform applications with Kotlin Multiplatform (KMP)
-* 🏗️ Experienced with MVVM, Repository Pattern & Clean Architecture
-* 🔥 Skilled in Firebase, Room Database, REST APIs (Retrofit & Ktor)
-* 🌱 Continuously learning modern Android development and best practices
-* 💼 Open to Android Developer opportunities
+* 📱 Develop native Android & Kotlin Multiplatform applications
+* 🏗️ Build scalable apps using MVVM & Clean Architecture
+* 🌐 Integrate REST APIs with Retrofit & Ktor
+* 💾 Implement offline-first solutions with Room Database
+* 🔥 Build cloud-powered features using Firebase
+* 🎨 Create modern UIs with Jetpack Compose
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages:** Kotlin • Java
 
-* Kotlin
-* Java
+**Android:** Android SDK • Jetpack Compose • Kotlin Multiplatform (KMP) • Compose Multiplatform (CMP)
 
-**Mobile Development**
+**Architecture:** MVVM • Repository Pattern • Clean Architecture
 
-* Android SDK
-* Jetpack Compose
-* Kotlin Multiplatform (KMP)
-* Compose Multiplatform (CMP)
+**Networking:** Retrofit • Ktor • REST APIs • JSON
 
-**Architecture**
+**Database:** Room • SQLite • Firebase Firestore
 
-* MVVM
-* Repository Pattern
-* Clean Architecture
-
-**Networking**
-
-* Retrofit
-* Ktor
-* REST APIs
-* JSON
-
-**Database**
-
-* Room Database
-* SQLite
-* Firebase Firestore
-
-**Tools**
-
-* Android Studio
-* Git
-* GitHub
-* GitLab
-* Firebase
-* Postman
-* Figma
+**Tools:** Android Studio • Git • GitHub • GitLab • Firebase • Postman • Figma
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 🌍 SafarSakha – Smart Travel Companion
+### 🚀 SafarSakha
 
-A Kotlin Multiplatform travel application featuring tour management, booking, navigation, offline support, Firebase integration, and a modern Compose UI.
+A Kotlin Multiplatform travel companion application with booking, navigation, offline support, and Firebase integration.
 
 **Tech:** Kotlin Multiplatform • Compose Multiplatform • Firebase • Room • MVVM
 
----
-
 ### 🌱 SmartFarm CMP
 
-A farmer management application built using Kotlin Multiplatform, enabling profile management, offline data synchronization, REST API integration, and modern Compose UI.
+A cross-platform farmer management application with profile management, offline synchronization, and REST API integration.
 
 **Tech:** Kotlin Multiplatform • Jetpack Compose • Room • REST APIs • MVVM
 
 ---
 
-## 📈 Currently Learning
-
-* Advanced Kotlin Multiplatform
-* System Design for Mobile Applications
-* Performance Optimization
-* CI/CD for Android Applications
-
----
-
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/ankit-dhara-b05659253
+* 💼 LinkedIn: [www.linkedin.com/in/ankit-dhara-b05659253](http://www.linkedin.com/in/ankit-dhara-b05659253)
 * 📧 Email: [ankitdhara8250@gmail.com](mailto:ankitdhara8250@gmail.com)
 
 ---
