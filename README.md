@@ -91,9 +91,8 @@ A farmer management application built using Kotlin Multiplatform, enabling profi
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-* 🌐 Portfolio: Coming Soon
+* 💼 LinkedIn: https://www.linkedin.com/in/ankit-dhara-b05659253
+* 📧 Email: [ankitdhara8250@gmail.com](mailto:ankitdhara8250@gmail.com)
 
 ---
 
